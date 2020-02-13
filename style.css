@@ -60,6 +60,7 @@ li:hover {
   padding: 25px 20px 25px 10px;
 }
 
+
 #header{
   text-align: center;
   grid-column: 1/2;
@@ -69,6 +70,9 @@ li:hover {
   grid-column: 2/3;
   grid-row: 2/3;
   text-align: center;
+}
+.parrafo h1{
+  padding-top: 5%;
 }
 .cards{
   grid-column: 2/3;
